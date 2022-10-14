@@ -1,0 +1,9 @@
+build/*
+.vscode
+
+test/YAN
+test/*.symbol
+test/tmp
+test/core
+example/a.out
+example/c
